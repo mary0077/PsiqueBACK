@@ -1,0 +1,18 @@
+
+{
+    "id": 1,
+    "nome": "João Silva",
+    "email": "joao@example.com",
+    "data_nascimento": "1990-01-01",
+    "CPF": "12345678901",
+    "telefone": "(00) 1234-5678",
+    "endereco": {
+      "rua": "Rua dos Pacientes",
+      "numero": "123",
+      "bairro": "Centro",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "12345-678"
+    }
+  }
+  

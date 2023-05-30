@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "paciente": {
+      "id": 1,
+      "nome": "João Silva",
+      "CPF": "12345678901"
+    },
+    "profissional": {
+      "id": 1,
+      "nome": "Dr. Maria Santos",
+      "CRP": "123456"
+    },
+    "data": "2023-01-01",
+    "horario": "10:00",
+    "observacoes": "Consulta de acompanhamento"
+  }
+  

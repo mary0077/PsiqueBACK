@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "nome": "Dr. Maria Santos",
+    "email": "maria@example.com",
+    "CPF": "98765432109",
+    "CRP": "123456",
+    "telefone": "(00) 9876-5432",
+    "especialidade": "Psicologia",
+    "endereco": {
+      "rua": "Rua dos Profissionais",
+      "numero": "456",
+      "bairro": "Centro",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "12345-678"
+    }
+  }
+  
