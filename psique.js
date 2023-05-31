@@ -5,7 +5,7 @@ const path = require('path');
 
 // Configuração do servidor
 const app = express();
-const port = 3000;
+
 
 // Middleware para analisar o corpo das solicitações
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -88,6 +88,3 @@ app.get('/getProfissionais', (req, res) => {
 
 
 // Iniciar o servidor
-app.listen(port, () => {
-  console.log(`Servidor rodando em http://localhost:${port}`);
-});
